@@ -1,7 +1,7 @@
 # CGS Issues
 This repository is to centralice the issues found in the Coin Governance System platform.
 
-To open an issue, please, go to the [Issues section](https://github.com/Icofunding/cgs-issues/issues).
+To open an issue, please, go to the [Issues section](https://github.com/CoinGovernanceSystem/cgs-issues/issues).
 When opening an issue, write as much information as you can. Transactions IDs, address used and action performed are specially usefull. If you can, providing an screenshot will also help.
 
 **Usefull links**
